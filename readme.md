@@ -10,7 +10,6 @@ cd yourprojectname
 rmdir /s .git
 del readme.md
 ren template_readme.md readme.md
-del template_readme.md
 ren main.py yourproject.py
 copy .env.template .env
 git init
