@@ -15,6 +15,8 @@ copy .env.template .env
 git init
 ```
 
+(then, if using vs code, modify launch.json to have the correct filename)
+
 ## Features
 
 - Main function with argument parsing, verbs, and logging
