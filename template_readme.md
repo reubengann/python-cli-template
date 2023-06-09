@@ -33,7 +33,7 @@ Do command 2
 python -m piptools compile
 ```
 
-This will generate requirements.txt with run requirements only (not dev reqs). To update the requirements.txt after it has been built. First, check which packages are out of date
+This will generate requirements.txt with run requirements only (not dev reqs). To update the requirements.txt after it has been built, first check which packages are out of date:
 
 ```bash
 pip list --outdated
