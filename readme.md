@@ -5,7 +5,7 @@ This is an opinionated template for making a Python command line program.
 ## Usage
 
 ```bash
-git clone git@gitlab.cbp.dhs.gov:niid/dac-ter-ardis/python-cli-template.git yourprojectname
+git clone https://github.com/reubengann/python-cli-template.git yourprojectname
 cd yourprojectname
 rmdir /s .git
 del readme.md
